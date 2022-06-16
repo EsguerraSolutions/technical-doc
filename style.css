@@ -56,7 +56,7 @@ li {
   text-decoration: none;
   color: #0B3E2E;
   font-size: 1.2em;
-  pointer: cursor;
+  cursor: pointer;
 }
 
 /*MAIN DOCUMENT*/
